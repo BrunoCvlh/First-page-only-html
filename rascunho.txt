@@ -1,0 +1,1 @@
+Nesse estilo de site, não são usadas divs em nenhum momento.
